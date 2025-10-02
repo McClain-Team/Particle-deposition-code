@@ -1,2 +1,23 @@
 Raw data for microdispensing and mass flow rates
 
+File naming convention: Material_Voltage_Date_Trial Number.txt
+
+Material Key:
+Fine SL = FSL
+Medium SL = MSL
+Coarse SL = CSL
+PA12 = PA12
+Sugar = S 
+
+Voltage Key:
+1.9V = 19
+2.5V = 25
+3.1V = 31
+
+Date: 
+MMDD
+
+Trial Number Note: 
+This experiment was conducted in sets of 10 trials. Some data has trial numbers 11-20 or 21-30. 
+This is because a set of trials was conducted earlier, but not included for data analysis. 
+Reason for exclusion from data analysis include issues with power supply, insufficent isolation from airflow, and changing the time of deposition.
